@@ -1,31 +1,35 @@
 # Libro de Finanzas en la Evangelización Mundial
 
-Bienvenido al repositorio de desarrollo de este libro. Este proyecto tiene como objetivo crear una guía accesible y práctica sobre principios financieros cristianos para personas de todos los niveles socioeconómicos.
+Bienvenido a la versión digital de este libro. Aquí encontrarás una guía práctica y profundamente espiritual para administrar los recursos que Dios ha puesto en tus manos, no con el fin de acumular riquezas, sino con el propósito de extender el Evangelio.
 
-## Estructura del Proyecto
+## 📖 Tabla de Contenido
 
-Para mantener el orden y el contexto a medida que el libro crece, hemos organizado los archivos de la siguiente manera:
+Haz clic en los enlaces para leer los capítulos disponibles:
 
-### 📂 `contexto/`
+### [Capítulo 1: El Punto Cero](borradores/01_punto_cero.md)
 
-Esta carpeta contiene la información fundamental que guía la escritura del libro. Es vital consultar estos archivos para mantener la coherencia.
+_La base de todo: Nuestra identidad en Cristo, la teología del conflicto y la liberación del temor a la muerte._
 
-- [vision_general.md](contexto/vision_general.md): Define el objetivo, la audiencia, el tono y las premisas fundamentales del libro.
-- [estructura_libro.md](contexto/estructura_libro.md): Contiene el índice tentativo y la descripción de los capítulos.
+### [Capítulo 2: Introducción](borradores/02_introduccion.md)
 
-### 📂 `borradores/`
+_El propósito del libro y la necesidad de orden en la vida del creyente._
 
-Aquí se almacenan los capítulos en desarrollo.
+### [Capítulo 3: Mayordomía](borradores/03_mayordomia.md)
 
-- [00_introduccion.md](borradores/00_introduccion.md): Borrador actual de la introducción.
+_Entendiendo que somos administradores, no dueños. "En los negocios de mi Padre me es necesario estar"._
 
-## Cómo Contribuir o Continuar Escribiendo
+---
 
-1.  **Revisar el Contexto:** Antes de escribir un nuevo capítulo, lee `contexto/vision_general.md` para recordar el tono y el enfoque.
-2.  **Seguir la Estructura:** Consulta `contexto/estructura_libro.md` para saber qué tema sigue.
-3.  **Crear Nuevo Archivo:** Crea un nuevo archivo en `borradores/` siguiendo la numeración (ej. `01_mayordomia.md`).
-4.  **Actualizar Contexto:** Si surgen nuevas ideas importantes, actualiza los archivos en `contexto/`.
+## 🚧 En Desarrollo
 
-## Uso de GitHub Copilot
+Estamos trabajando en los siguientes temas:
 
-Este proyecto está diseñado para ser desarrollado con la asistencia de IA. La carpeta `contexto/` sirve como "memoria" para que la IA pueda entender rápidamente de qué trata el proyecto y mantener la consistencia en el estilo y contenido.
+- Conceptos Básicos (Tiempo y Dinero)
+- Derribando Mitos y Tradiciones
+- Finanzas en la Vida Diaria (Estrategias de ahorro y reservas)
+
+---
+
+### Sobre este proyecto
+
+Este libro se está escribiendo de manera abierta. Si deseas ver la estructura completa o los principios que guían la escritura, puedes consultar la carpeta de [Contexto](contexto/).
