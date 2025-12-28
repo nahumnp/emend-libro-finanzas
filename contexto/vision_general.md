@@ -54,3 +54,4 @@ Al generar contenido nuevo o revisar el existente:
 2.  Mantener la simplicidad del lenguaje.
 3.  Asegurar que cada capítulo tenga una aplicación práctica.
 4.  Revisar que no se desvíe hacia teología especulativa o teorías económicas complejas.
+5.  **Citas Bíblicas Explícitas (RVR1960):** Todas las citas bíblicas deben escribirse textualmente en la versión Reina Valera de 1960. El lector no debe tener que salir del texto para buscar el pasaje; todo debe estar explícito dentro del libro.

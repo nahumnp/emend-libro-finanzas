@@ -9,6 +9,8 @@ Este archivo contiene el índice tentativo y la estructura lógica del libro. Se
 - **La Condición Indispensable**: Creer que Jesús es el Cristo. Sin Él, nada podemos hacer.
 - **El Conflicto Cósmico**: Dios nos rescató de Satanás (ladrón y destructor). La lucha por la imagen de Dios y la familia.
 - **Creación y Caída**: El diseño original de gobierno vs. la autosuficiencia ("querer ser igual a Dios") y la esclavitud del pecado.
+- **Mamón: No Se Puede Servir a Dos Señores**: Jesús no advirtió contra brujerías u otros cultos, sino específicamente contra las riquezas. Mamón es el dios de la codicia, la autosuficiencia disfrazada. A Satanás no le importa cuántos dioses tenga el hombre; le importa desviar la relación original con Dios.
+- **El Peligro Doble**: La adversidad puede hacer que el hombre reniegue de Dios; la prosperidad puede hacer que se olvide de Él. Ambos extremos son trampas.
 - **El Engaño Religioso**: Satanás usa el miedo y la falsa piedad ("sendas antiguas" mal entendidas) para cegar. Ejemplo de los judíos y Pablo.
 - **Mercaderes de la Fe**: Alerta contra líderes asalariados que lucran con la esperanza y desvían el propósito de la Salvación.
 - **El Postrer Adán**: Jesús arrebata el imperio de la muerte y restaura la relación.
@@ -18,6 +20,8 @@ Este archivo contiene el índice tentativo y la estructura lógica del libro. Se
 
 - **¿Por qué este libro?**: La necesidad de orden y propósito en las finanzas.
 - **La Vida del Creyente**: Entendiendo nuestra identidad en Cristo y nuestra realidad diaria.
+- **Cambio de Mentalidad**: La forma de usar el dinero refleja las intenciones del corazón. Una vida de apariencia puede camuflar, pero el tiempo pone a prueba las intenciones y evidencia el desorden.
+- **Renovación del Entendimiento**: No basta con consejos prácticos; se requiere una transformación de formas de pensamiento y verdaderos propósitos del corazón alineados con la voluntad de Dios.
 
 ### 3. El Fundamento: Mayordomía
 
@@ -28,6 +32,13 @@ Este archivo contiene el índice tentativo y la estructura lógica del libro. Se
 
 ### 4. Conceptos Básicos (Explicados Sencillamente)
 
+- **Capacidad y Confiabilidad**: Para ser confiables, primero debemos ser capacitados. Dios da "a cada uno conforme a su capacidad" (Mateo 25:15). No le confiarías una empresa exitosa a alguien que no sabe administrarla.
+- **El Heredero Inmaduro**: Gálatas 4:1-2 enseña que aunque el heredero es dueño de todo, por su inmadurez está bajo tutores y no puede ejercer lo que ya tiene conferido.
+- **Definiciones Clave para el Crecimiento**:
+  - _Inmadurez:_ Falta de desarrollo en carácter y criterio para tomar decisiones sabias.
+  - _Inexperiencia:_ Ausencia de práctica y conocimiento aplicado en situaciones reales.
+  - _Sin Habilidad:_ Carencia de destrezas específicas que se desarrollan con entrenamiento.
+- **El Propósito de Este Libro**: Cada tema irá "deshojando y podando" áreas de nuestra vida para que podamos dar buen fruto (Juan 15:2).
 - **¿Qué es el Tiempo?**: Más que horas y minutos, es vida y oportunidad.
 - **¿Qué es el Dinero?**: Una herramienta de intercambio, no un fin en sí mismo.
 - **El Dinero en el Tiempo**: Cómo nuestras decisiones de hoy afectan nuestro mañana.

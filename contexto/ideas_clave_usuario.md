@@ -8,12 +8,27 @@ Este documento contiene ideas específicas, anécdotas y principios prácticos p
 - **Morir a uno mismo:** Desear hacer la voluntad del Padre por encima de la propia. Sin esto, los consejos financieros son solo "cosas útiles" pero sin vida verdadera.
 - **Sanidad Espiritual:** "Las cosas viejas pasaron". Se deben sacar las malas costumbres, egos y egoísmos (desaprender para aprender).
 - **"Sin mí, nada podéis hacer":** La administración financiera cobra sentido solo en el contexto de la salvación eterna y la restauración para testificar del Reino de la Luz.
+- **Cambio de Mentalidad:** Se requiere una transformación de formas de pensamiento y verdaderos propósitos del corazón. La forma de usar el dinero refleja las intenciones del corazón.
+- **La Prueba del Tiempo:** Una vida de apariencia puede camuflar las intenciones, pero cuando estas se ponen a prueba en el tiempo, las intenciones del corazón se evidencian en el desorden de las prioridades y en la desobediencia a la voluntad de Dios conforme al evangelio.
+- **Renovación del Entendimiento:** No basta con consejos prácticos; sin la renovación del entendimiento (Romanos 12:2), el hombre seguirá tomando decisiones conforme a la carne y no conforme al Espíritu.
+- **Mamón - No Se Puede Servir a Dos Señores:** Jesús no advirtió contra brujerías, la naturaleza o cualquier otro culto; advirtió específicamente contra las riquezas (Mateo 6:24). Mamón es el dios de la codicia, el deseo de autosuficiencia. A Satanás no le importa cuántos dioses tenga el hombre; le importa desviar la mirada de convicción y relación del diseño original de Dios con el hombre.
+- **El Peligro Doble (Proverbios 30:8-9):** La adversidad puede llevar al hombre a renegar de Dios; la prosperidad puede hacer que se olvide de Él. Ambos extremos son trampas que desvían del propósito.
 
 ## 1. Principio de Liquidez Mental: "Que tu 0 no sea 0"
 
 - **Concepto:** Establecer un límite inferior de efectivo (ej. $100) que mentalmente se considera como "cero".
 - **Objetivo:** Evitar llegar a la bancarrota total absoluta. Si se toca ese fondo de reserva, la mente debe entrar en "modo urgencia" como si no hubiera dinero.
 - **Beneficio:** Evita la parálisis mental que produce la escasez absoluta y previene malas decisiones tomadas por desesperación.
+
+## 1.1. Capacidad, Confiabilidad y Madurez
+
+- **Capacidad antes de Responsabilidad (Mateo 25:15):** Dios da "a cada uno conforme a su capacidad". No se le confía una empresa exitosa a alguien que no sabe administrarla. Primero debemos ser capacitados para poder ser confiables.
+- **El Heredero Inmaduro (Gálatas 4:1-2):** Aunque el heredero es dueño de todo, por su inmadurez está bajo tutores y curadores hasta el tiempo señalado por el padre. No puede ejercer lo que ya tiene conferido por herencia hasta que madure.
+- **Definiciones Clave:**
+  - _Inmadurez:_ Falta de desarrollo en carácter y criterio. El inmaduro tiene los recursos pero no el discernimiento para usarlos bien. Toma decisiones impulsivas, se deja llevar por emociones y no mide consecuencias.
+  - _Inexperiencia:_ Ausencia de práctica y conocimiento aplicado. El inexperto puede tener buen carácter pero no ha enfrentado situaciones reales que le enseñen. Necesita mentores y oportunidades para aprender.
+  - _Sin Habilidad:_ Carencia de destrezas específicas. La habilidad se desarrolla con entrenamiento, repetición y corrección. No es un defecto permanente, es un área de crecimiento.
+- **El Propósito Formativo del Libro:** Cada tema irá "deshojando y podando" áreas de nuestra vida (Juan 15:2: "todo pámpano que lleva fruto, lo limpiará, para que lleve más fruto"). El objetivo no es solo informar, sino transformar.
 
 ## 2. El Ahorro como Prioridad (Primicias)
 

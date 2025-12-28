@@ -26,6 +26,31 @@ Si Dios se ocupa de alimentar a un pajarito que vive poco tiempo, ¿cuánto más
 
 Sin embargo, confiar en la provisión de Dios no significa cruzarse de brazos a esperar que el dinero caiga del cielo. Dios provee, pero a menudo lo hace a través de nuestra capacidad de trabajar, de pensar y de administrar. Él nos da la semilla, la tierra y la fuerza, pero nosotros debemos sembrar y cosechar.
 
+## Jesús y la Economía: No al Voto de Pobreza
+
+Existe un mito muy extendido que debemos derribar: la idea de que Jesús enseñó la pobreza como virtud o que ser pobre es más "espiritual". Esto es un engaño religioso. Veamos lo que la Escritura realmente nos muestra:
+
+**El Sostenimiento Inicial**
+Cuando Jesús nació, los magos de oriente trajeron regalos:
+
+> _"Y al entrar en la casa, vieron al niño con su madre María, y postrándose, lo adoraron; y abriendo sus tesoros, le ofrecieron presentes: oro, incienso y mirra."_ (Mateo 2:11, RVR1960)
+
+Estos regalos no fueron casualidad. El oro, el incienso y la mirra tenían un valor económico significativo. Sirvieron para el sustento de la familia de Jesús, especialmente durante la huida a Egipto y los primeros años de su crianza. Dios proveyó económicamente desde el inicio.
+
+**Jesús Obrero**
+Jesús no fue un vagabundo sin oficio. Fue carpintero, un oficio de buen estatus y ganancia en su época:
+
+> _"¿No es éste el carpintero, hijo de María...?"_ (Marcos 6:3, RVR1960)
+
+Jesús trabajó junto a su familia terrenal. Aprendió un oficio, produjo con sus manos y conoció el esfuerzo del trabajo diario. El trabajo no es una maldición; es parte del diseño de Dios para el hombre.
+
+**La Pesca Milagrosa**
+Cuando Jesús llamó a sus discípulos, ellos dejaron todo para seguirle. Pero Dios no los dejó desamparados. En más de una ocasión, proveyó de manera sobrenatural:
+
+> _"Y habiéndolo hecho, encerraron gran cantidad de peces, y su red se rompía. Entonces hicieron señas a los compañeros que estaban en la otra barca, para que viniesen a ayudarles; y vinieron, y llenaron ambas barcas, de tal manera que se hundían."_ (Lucas 5:6-7, RVR1960)
+
+Esta provisión sobrenatural sirvió para sostener a los discípulos y a sus familias. Dios suple las necesidades de aquellos que obedecen su llamado.
+
 ## "En los Negocios de mi Padre"
 
 Cuando Jesús tenía 12 años y sus padres lo buscaban angustiados, él les respondió: _"¿No sabéis que en los negocios de mi Padre me es necesario estar?"_ (Lucas 2:49).
