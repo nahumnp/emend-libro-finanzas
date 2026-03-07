@@ -24,11 +24,21 @@ Una persona puede aparentar ser ordenada y generosa. Puede vestir bien, dar ofre
 
 > _"Engañoso es el corazón más que todas las cosas, y perverso; ¿quién lo conocerá? Yo Jehová, que escudriño la mente, que pruebo el corazón, para dar a cada uno según su camino, según el fruto de sus obras."_ (Jeremías 17:9-10, RVR1960)
 
+Otras versiones dicen:
+
+> _"El corazón es más engañoso que cualquier otra cosa, y su maldad no tiene límites. ¿Quién puede entenderlo? Yo, el Señor, lo examino todo, lo pruebo todo, y doy a cada uno lo que merece según sus acciones."_ (Jeremías 17:9-10, NVI)
+
+> _"Ustedes se creen buenos, pero son malos y mentirosos; ¡no tienen remedio! Solo yo, el Dios de Israel, sé muy bien lo que piensan,y los castigaré por su mala conducta."_ (Jeremías 17:9-10, TLA)
+
 Cuando las intenciones del corazón no están alineadas con la voluntad de Dios, tarde o temprano el desorden se manifiesta: en las prioridades equivocadas, en las deudas acumuladas, en las relaciones rotas, en la angustia constante por el dinero. No fallamos en finanzas por falta de información; fallamos porque nuestro corazón busca cosas que no son conforme al evangelio.
 
 Por eso el apóstol Pablo nos exhorta:
 
 > _"No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento, para que comprobéis cuál sea la buena voluntad de Dios, agradable y perfecta."_ (Romanos 12:2, RVR1960)
+
+Una versión más contemporánea dice:
+
+> _"Por eso, hermanos míos, ya que Dios es tan bueno con ustedes, les ruego que dediquen toda su vida a servirle y a hacer todo lo que a él le agrada. Así es como se le debe adorar. Y no vivan ya como vive todo el mundo. Al contrario, cambien de manera de ser y de pensar. Así podrán saber qué es lo que Dios quiere, es decir, todo lo que es bueno, agradable y perfecto. Dios en su bondad me nombró apóstol, y por eso les pido que no se crean mejores de lo que realmente son. Más bien, véanse ustedes mismos según la capacidad que Dios les ha dado como seguidores de Cristo."_ (Romanos 12:1-4, TLA)
 
 Sin esta renovación del entendimiento, cualquier consejo financiero será como poner un parche sobre una herida que necesita sanidad profunda. Necesitamos que Dios cambie nuestra manera de pensar para poder administrar conforme a Su voluntad.
 
