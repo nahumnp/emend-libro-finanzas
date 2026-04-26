@@ -27,6 +27,30 @@ Y lo más importante: **¿Cómo piensa tu corazón respecto al dinero?** Porque 
 
 Este capítulo te ayudará a ver el panorama completo y a tomar decisiones con sabiduría, no por impulso ni por presión social.
 
+## El Peso de las Pequeñas Decisiones
+
+Una de las verdades más subestimadas de las finanzas personales es esta: **las decisiones pequeñas tienen consecuencias grandes**. No de inmediato, pero sí en el tiempo.
+
+Toma este ejemplo sencillo:
+
+- Un café comprado cada día en la calle: $2. En un mes: $60. En un año: **$720**.
+- Un taxi tomado cuando había transporte público disponible, tres veces por semana: $5 extra cada vez. En un mes: $60. En un año: **$720**.
+- Solo esas dos decisiones "pequeñas" suman **$1,440 al año**.
+
+Eso no es un dato para que te sientas culpable por tomar café. Es para que veas con claridad que tus finanzas no se construyen ni se destruyen con grandes decisiones únicas, sino con el **patrón de tus decisiones cotidianas**. El orden o el desorden que tienes hoy es el resultado acumulado de lo que decidiste en los últimos meses y años.
+
+Y esto aplica en ambos sentidos. Si ahorras $5 al día, en un año tienes $1,825. Si ese ahorro tiene un propósito —construir el fondo de emergencia, liquidar una deuda, invertir en una herramienta de trabajo— cada día que tomas esa pequeña decisión, estás construyendo algo real.
+
+> _"Los pensamientos del diligente ciertamente tienden a la abundancia; mas todo el que se apresura alocadamente, de cierto va a la pobreza."_ (Proverbios 21:5, RVR1960)
+
+La abundancia no llega de golpe. Viene del pensamiento diligente aplicado con consistencia. Y la pobreza tampoco llega de un solo golpe; viene de pequeñas decisiones no evaluadas, repetidas día tras día sin conciencia de su peso acumulado.
+
+Este es el panorama que necesitas tener presente en todo este capítulo. Cada herramienta que aprenderás aquí es una manera de hacer que tus decisiones diarias trabajen **para** ti, y no en tu contra.
+
+> _"El que es fiel en lo muy poco, también en lo más es fiel; y el que en lo muy poco es injusto, también en lo más es injusto."_ (Lucas 16:10, RVR1960)
+
+Dios valora y observa la fidelidad en lo pequeño. No empieces a administrar bien cuando tengas más. Empieza hoy con lo que tienes. Eso es lo que abre la puerta a lo que sigue.
+
 ## Mentalidad de Liquidez: "Que tu 0 no sea 0"
 
 Este es uno de los principios más importantes de este libro, especialmente para quienes viven en economías inestables o con ingresos irregulares.
@@ -135,6 +159,16 @@ Antes de cada compra importante, hazte estas preguntas:
 - ¿Para qué voy a usar esto realmente?
 - ¿Existe algo más urgente/importante?
 - ¿Hay una alternativa más adecuada?
+
+### El Filtro Más Profundo: La Honestidad del Corazón
+
+Estos cuatro filtros son herramientas útiles, pero su efectividad depende de algo que no está en ninguna lista: **la honestidad contigo mismo**.
+
+Es fácil responder las preguntas de filtro con lo que quieres escuchar en lugar de lo que es verdad. _"¿Lo voy a usar regularmente?"_ — _"Sí, seguro"_ (aunque en el fondo sabes que probablemente no). _"¿Es el momento adecuado?"_ — _"Claro"_ (aunque hay una deuda pendiente). El corazón humano es experto en construir argumentos que justifiquen lo que ya desea.
+
+> _"Engañoso es el corazón más que todas las cosas, y perverso; ¿quién lo conocerá?"_ (Jeremías 17:9, RVR1960)
+
+Esta advertencia no es para paralizarte. Es para mantenerte alerta. Aplicar estos cuatro filtros con sinceridad es, en sí mismo, un ejercicio espiritual: es pedirle a Dios que ilumine tu entendimiento para ver la realidad tal como es, y no la versión que tu deseo está construyendo. La renovación del entendimiento de la que habla Romanos 12:2 tiene aplicación práctica en cada mostrador, en cada tienda en línea, en cada decisión de compra del día.
 
 ## El Presupuesto Básico: Un Mapa de Tu Dinero
 
@@ -269,6 +303,26 @@ Porque los tiempos de abundancia no duran para siempre. El que administra con cr
 
 El sabio disfruta del bien pero también considera. No se despilfarra en abundancia ni se desespera en escasez.
 
+## La Fidelidad en lo Cotidiano: La Puerta al Aumento
+
+Todo lo que hemos visto en este capítulo —el fondo de liquidez, el ahorro como primicia, la alacena, el análisis de compra, el presupuesto, el criterio de escasez— tiene un denominador común: son formas concretas de ser **fiel en lo poco**.
+
+Y la fidelidad en lo poco no es un fin en sí misma. Es la condición para lo que viene después.
+
+> _"Porque al que tiene, le será dado, y tendrá más; y al que no tiene, aun lo que tiene le será quitado."_ (Mateo 25:29, RVR1960)
+
+Este versículo se pronuncia al final de la parábola de los talentos, después de que el señor evalúa la fidelidad de cada siervo con lo que le fue confiado. No es una promesa de que "el rico se hace más rico". Es el principio del Reino: **la responsabilidad crece en proporción a la fidelidad demostrada**. Al que mostró ser confiable con poco se le dio más. Al que no administró lo que tenía, se le quitó.
+
+Esto tiene una implicación directa para tu vida cotidiana: cada vez que decides guardar en lugar de gastar por impulso, cada vez que construyes tu reserva de a poco, cada vez que haces tu presupuesto aunque sea en un papel pequeño, estás mostrando fidelidad. Eso tiene peso delante de Dios y tiene peso en la trayectoria de tu propia vida.
+
+También tiene peso en tu salud espiritual. La prosperidad que Dios desea para sus hijos no es solo material:
+
+> _"Amado, yo deseo que tú seas prosperado en todas las cosas, y que tengas salud, así como prospera tu alma."_ (3 Juan 1:2, RVR1960)
+
+La prosperidad del alma y la prosperidad material están entrelazadas. No porque tener dinero te haga más espiritual, sino porque el orden, la diligencia, la honestidad y la previsión son frutos del carácter que el Espíritu Santo forma en nosotros. Un alma ordenada tiende a producir una vida ordenada. Y una vida ordenada genera condiciones para que la provisión de Dios fluya con mayor libertad.
+
+Esta es la razón por la que este libro no es solo un manual de presupuesto. Es una invitación a crecer. A que lo que haces con $100 refleje el mismo carácter que necesitarás cuando sean $1,000. A que tus decisiones cotidianas sean coherentes con la persona que quieres ser y con la misión para la que fuiste llamado.
+
 ## Economía Familiar: Trabajando en Equipo
 
 La administración financiera no es tarea de una sola persona. Es un proyecto familiar.
@@ -296,11 +350,23 @@ Respeta su autoridad pero aporta con generosidad. Aprende de su experiencia. Pre
 
 La prosperidad familiar viene del trabajo en equipo, no de esfuerzos aislados.
 
----
+Y hay un horizonte aún más amplio detrás de todo esto. Una familia que administra bien no solo vive mejor; está equipada para ser un agente de cambio en su entorno. Los recursos que se ordenan se multiplican. Los recursos que se multiplican pueden sostenerse a sí mismos y alcanzar a otros.
+
+El fin último de ordenar las finanzas del hogar no es simplemente tener estabilidad —aunque eso ya es valioso— sino estar en condiciones de responder cuando el Señor abra una puerta de misión, de generosidad o de servicio. Una familia sin deudas innecesarias, con reservas, con ingresos administrados conscientemente, tiene libertad de movimiento que una familia endeudada y en crisis simplemente no tiene.
+
+> _"Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos."_ (Mateo 5:16, RVR1960)
+
+La casa en orden es un testimonio. La familia que vive dentro de sus posibilidades, que da con generosidad, que no está esclavizada a deudas por apariencia, habla de manera diferente al mundo. Ese también es el evangelio haciéndose visible.
 
 **Para reflexionar:**
 
-1. ¿Cuál será tu límite de "cero mental"? Defínelo hoy.
-2. ¿Estás apartando las primicias (diezmo y ahorro) al recibir tu ingreso?
-3. ¿Tienes una reserva de alimentos? Si no, ¿qué producto podrías empezar a acumular este mes?
-4. ¿Tu familia trabaja en equipo financieramente o cada quien va por su lado?
+1. ¿Cuál será tu límite de "cero mental"? Defínelo hoy con una cantidad específica.
+2. ¿Estás apartando las primicias (diezmo y ahorro) al recibir tu ingreso, o esperas a ver qué sobra al final del mes?
+3. ¿Tienes una reserva de alimentos? Si no, ¿qué producto concreto podrías empezar a acumular este mes?
+4. ¿Tu familia trabaja en equipo financieramente, o cada quien toma decisiones de forma aislada sin una visión compartida?
+5. Identifica una decisión pequeña y repetida —diaria o semanal— que está costándote más de lo que crees. ¿Cuánto suma al año?
+6. Cuando aplicas el análisis de compra (calidad, precio, uso, tiempo), ¿eres honesto contigo mismo o buscas justificar lo que ya quieres hacer?
+7. ¿Hay alguna área en tu vida financiera donde estás siendo fiel en lo poco ahora mismo? ¿Qué podría pasar si esa fidelidad se sostiene consistentemente durante un año?
+8. ¿Subes tus gastos cada vez que suben tus ingresos, sin aumentar también tu ahorro ni tu aporte a la obra de Dios?
+9. Si hoy hicieras el balance de tu presupuesto (ingresos menos primicias menos gastos), ¿el resultado sería positivo o negativo? ¿Sabes la respuesta con seguridad o la desconoces?
+10. Si tu familia estuviera libre de deudas innecesarias y con reservas consolidadas, ¿qué puerta de generosidad, misión o servicio podría abrirse que hoy permanece cerrada?

@@ -1,4 +1,4 @@
-# Capítulo 9: Conclusión
+# Capítulo 10: Conclusión
 
 Hemos recorrido un largo camino juntos. Desde el Punto Cero hasta la Misión Mundial, hemos explorado principios que pueden transformar no solo tus finanzas, sino tu vida entera.
 
