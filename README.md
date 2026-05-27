@@ -38,9 +38,13 @@ _El trabajo como bendición, identificar oportunidades, la Ley del Aumento y la 
 
 ### [Capítulo 8: Finanzas y la Misión](borradores/08_finanzas_mision.md)
 
-_La Evangelización Mundial, economía en comunidad, el diezmo, las ofrendas y tesoros en el cielo._
+_La Evangelización Mundial, economía en comunidad, el diezmo, las ofrendas, tesoros en el cielo y la vida del creyente aferrada al pacto._
 
-### [Capítulo 9: Conclusión](borradores/09_conclusion.md)
+### [Capítulo 9: Ser Testigos](borradores/09_ser_testigos.md)
+
+_¿Testigos de qué? Quién es Jesús el Cristo, el evangelio que no puede ser otro, el peligro del evangelio distorsionado, la sabiduría que corrompe, la obediencia que no es ignorancia, la mujer samaritana como modelo del testigo, y las anclas que sostienen el testimonio verdadero._
+
+### [Capítulo 10: Conclusión](borradores/10_conclusion.md)
 
 _Resumen de principios, llamado a la acción y oración final._
 
