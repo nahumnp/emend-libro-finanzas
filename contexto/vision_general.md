@@ -36,6 +36,10 @@ Proveer una guía práctica y espiritual sobre principios financieros para perso
 11. **El Punto Cero (Vida Verdadera):** Todo principio financiero es inútil sin la base de haber creído que Jesús es el Cristo y haber "muerto a uno mismo". La sanidad espiritual (desaprender vicios y egoísmos) es requisito para vivir por fe y administrar para el Reino.
 12. **Guerra Espiritual y Restauración:** Entender que Satanás busca destruir la imagen de Dios y la familia mediante el desorden y la división. Jesús (el Postrer Adán) vino a arrebatar el imperio de la muerte y restaurar el gobierno de Dios en nosotros. La administración financiera es parte de esta recuperación de territorio y orden.
 13. **Religión vs. Fe:** Distinguir claramente entre la religiosidad (formas externas, miedo, tradición) y la Fe Verdadera (revelación de Cristo, transformación interna). La religiosidad ciega; la Fe libera.
+14. **Realismo Latinoamericano:** El lector vive con servicios públicos deficientes, crédito casi inexistente, inflación e ingresos mezclados. No se recomiendan estrategias de países desarrollados (tarjetas para historial crediticio, hipotecas, bolsa como primer paso, fondos de 6 meses como meta inicial). Todo consejo debe poder cumplirlo una persona de ingresos bajos o moderados, empezando con lo que tiene.
+15. **Revelación, no Regaño:** Toda advertencia va seguida de gracia y de una estrategia (Diagnóstico → Revelación → Estrategia). Cada capítulo cierra con ideas clave, palabra de esperanza, un paso concreto y máximo 5 preguntas (ver `ideas_clave_usuario.md`, sección 17).
+16. **Carne vs. Espíritu con Costo Real:** Las decisiones del hombre natural (infidelidad, sexualidad fuera de tiempo, vicios, impulsos) tienen consecuencias espirituales, emocionales **y financieras** medibles. Mostrarlas con ejemplos y números, con cuidado pastoral hacia quien ya las vive.
+17. **El Tiempo es Patrimonio:** Cuidar el tiempo disponible vale tanto como ahorrar cada centavo. Las herramientas y los sistemas que devuelven horas de vida y paz (agua, lavado, servicios) son inversión, no lujo.
 
 ## 5. Temas Clave a Abordar
 
