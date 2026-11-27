@@ -349,3 +349,6 @@ Con el Plan B, en tres semanas no queda nada y nada cambió.
 7. **Plan para un imprevisto:** ¿afecta la vida o el ingreso?, ¿reparar o reemplazar?, fuente del dinero, plan de reconstrucción.
 8. **Lista para cuando me piden prestado:** las 7 preguntas del Ejercicio 9.
 9. **Valor de mi hora:** ingreso ÷ horas trabajadas.
+10. **Costo real de mi vehículo:** cauchos, aceite y mantenimiento, lavado, impuestos y papeles, provisión de reparaciones, más la gasolina (sección 20.1).
+11. **Directorio de contingencia:** si pasa esto, contacto principal, contacto alterno, última verificación (sección 21.3).
+12. **Mis hábitos en un año:** hábito o pantalla, gasto o horas por semana, × 52, qué podría construir con eso (sección 18).

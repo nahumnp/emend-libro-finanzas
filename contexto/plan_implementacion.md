@@ -16,6 +16,7 @@ Plan para ejecutarlo en sesiones futuras. Cada fase termina en **un commit propi
 5. Un capítulo ya escrito (por ejemplo `05_derribando_mitos.md`) para imitar la voz del autor: segunda persona, frases cortas, un versículo RVR1960 escrito completo después de cada idea, negritas para la idea clave.
 
 **Reglas que aplican a todas las fases:**
+- **Las "Palabras del autor" de las secciones 18 a 21 se conservan casi literales** (solo con la ortografía corregida), integradas en el texto y seguidas de su aplicación concreta. No se reemplazan por resúmenes.
 - **Citas en RVR1960, escritas textualmente.** Las citas de los archivos de contexto se escribieron de memoria: **verificar cada una** contra una fuente RVR1960 antes de pasarla a un capítulo. Las versiones NVI y TLA no se usan.
 - **No inventar cifras nuevas** si el contexto ya las trae. Si se cambia una cifra de los ejercicios, se recalculan los que dependen de ella (la familia Martínez es un solo caso continuo).
 - **Toda advertencia va seguida de gracia y de una estrategia.**
@@ -73,11 +74,11 @@ Plan para ejecutarlo en sesiones futuras. Cada fase termina en **un commit propi
 
 | Archivo | Fuente | Contenido mínimo |
 | --- | --- | --- |
-| `05_carne_o_espiritu.md` | Sección 11 | El hombre natural vs. el espiritual; la infidelidad con la tabla de $400 (del 87% al 117%); el embarazo no planificado con la aclaración de que el hijo es bendición; el cuidado pastoral; un camino para quien ya vive las consecuencias |
-| `07_deudas_ahorro_inversion.md` | Secciones 12, 13, 13.1 y 14 | Definición de deuda; criterios de deuda buena y mala; 7 pasos para salir; ahorro en divisas y por etapas; vista anual (tabla de $20/$30/$50); escalera de inversión y alerta de estafas |
-| `08_tiempo_calidad_vida.md` | Sección 15 | El agua (madrugada, bomba, flotantes), la ropa (lavar, secar, planchar, guardar), 312 horas al año, lo que se pospone, soluciones por costo, cómo decidir |
+| `05_carne_o_espiritu.md` | Secciones 11 y 18 | El hombre natural vs. el espiritual; la infidelidad con la tabla de $400 (del 87% al 117%); el embarazo no planificado con la aclaración de que el hijo es bendición; el cuidado pastoral; un camino para quien ya vive las consecuencias; vicios ($1.200 al año), gasto por impulso, el vicio del entretenimiento y la pornografía |
+| `07_deudas_ahorro_inversion.md` | Secciones 12, 13, 13.1, 14 y 19 | Definición de deuda; criterios de deuda buena y mala; 7 pasos para salir; ahorro en divisas y por etapas; vista anual (tabla de $20/$30/$50); escalera de inversión y alerta de estafas; retener más en lugar de ganar más; vivienda (precio contra ubicación); alquilar una habitación con contrato |
+| `08_tiempo_calidad_vida.md` | Sección 15 | El agua (madrugada, bomba, flotantes), la ropa (lavar, secar, planchar, guardar), 312 horas al año, lo que se pospone, soluciones por costo, cómo decidir; enlazar con 18.3 (el tiempo robado por las pantallas) |
 
-- Ampliar `09_trabajo_emprendimiento.md` con las secciones 16.3 (incluye "Aprender, Perfeccionar y Especializar un Oficio Técnico"), 16.4 y 16.5 (comprar donde es barato y llevar donde hace falta). Cambiar su cierre para que termine en esperanza.
+- Ampliar `09_trabajo_emprendimiento.md` con las secciones 16.3 (incluye "Aprender, Perfeccionar y Especializar un Oficio Técnico"), 16.4, 16.5 (comprar donde es barato y llevar donde hace falta) y 20 (resolver problemas ajenos: transporte, carga, cocina, enseñanza, cuidado, oficios, la actitud que vende). Cambiar su cierre para que termine en esperanza.
 
 **Commits:** uno por capítulo, por ejemplo `feat: add chapter 5 'Carne o Espíritu'`.
 
@@ -88,7 +89,8 @@ Plan para ejecutarlo en sesiones futuras. Cada fase termina en **un commit propi
 - `10_plan_de_accion.md`:
   - Secciones 16.1 y 16.2.
   - **Los 11 ejercicios** de `ejercicios_practicos.md`, cada uno con situación, datos, solución, "Lo que esto revela" y versículo.
-  - Las 9 plantillas en blanco al final, como tablas Markdown vacías.
+  - La sección 21 (los imprevistos), ubicada junto a los Ejercicios 6 a 10, con el directorio de contingencia y el simulacro trimestral.
+  - Las 12 plantillas en blanco al final, como tablas Markdown vacías.
 - `12_finanzas_congregacion.md`: todo `finanzas_congregacion.md`, con el presupuesto de $600 y sus provisiones.
 - **Antes de escribir:** resolver el PENDIENTE sobre qué es "el cuerpo que lleva espiritualmente a la iglesia" (preguntar al autor).
 

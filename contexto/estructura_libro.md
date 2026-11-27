@@ -46,12 +46,14 @@ _Archivo actual: `05_derribando_mitos.md`_
 
 ### 5. Carne o Espíritu: El Costo Real de Nuestras Decisiones (NUEVO)
 
-_Ideas base: sección 11_
+_Ideas base: secciones 11 y 18_
 
 - El hombre natural vs. el hombre espiritual: siembra y cosecha.
 - La infidelidad en un matrimonio con hijos: dos casas, dos mercados, el déficit (con ejemplo numérico).
 - Jóvenes, sexualidad y embarazo no planificado: la carrera interrumpida; el hijo sigue siendo bendición.
-- (Opcional) Apuestas, vicios, ira y orgullo.
+- **Vicios** (cigarros, licor, drogas, lotería): $1.200 al año y la dependencia emocional.
+- **Gasto por impulso:** el dominio propio y la regla de las 48 horas.
+- **El vicio del entretenimiento:** redes, mensajería y streaming (1.095 horas al año); la pornografía como robo de la mente.
 - Para quien ya vive las consecuencias: gracia y reorganización.
 
 ### 6. Finanzas en la Vida Diaria
@@ -66,16 +68,17 @@ _Archivo actual: `06_finanzas_vida_diaria.md`_
 
 ### 7. Deudas, Ahorro e Inversión: Construir la Holgura (NUEVO)
 
-_Ideas base: secciones 12, 13, 13.1 y 14_
+_Ideas base: secciones 12, 13, 13.1, 14 y 19_
 
 - Qué es una deuda; la buena y la mala (con criterios); cómo salir de deudas.
 - Ahorro en una economía inestable: guardar valor, metas por etapas, sobres y el "san".
+- **Ganar más no es la salida, retener más:** el aumento del 20% que deja a la familia peor; la vivienda, precio contra ubicación; alquilar una habitación de la casa (contrato con abogado y riesgo legal).
 - Ver el dinero en año: las fugas multiplicadas por 12 y la tabla de $20 a $50 al mes, que en uno a tres años compran al contado una moto o un carro usado. Incluye los gastos de temporada como provisión mensual.
 - La escalera de inversiones pequeñas y medianas; cómo evitar las estafas.
 
 ### 8. El Tiempo y la Calidad de Vida (NUEVO)
 
-_Ideas base: sección 15_
+_Ideas base: sección 15 (y 18.3: el tiempo robado por el entretenimiento)_
 
 - Lo barato que roba la vida. El caso del agua (tanques, bomba, flotantes) y el caso de la ropa (lavar, secar, planchar, guardar).
 - El cálculo de las horas al año y lo que se pospone: evangelizaciones, reuniones, familia.
@@ -83,7 +86,7 @@ _Ideas base: sección 15_
 
 ### 9. Trabajo, Valor y Emprendimiento
 
-_Archivo actual: `07_emprendimiento.md`, ampliado con las secciones 16.3, 16.4 y 16.5_
+_Archivo actual: `07_emprendimiento.md`, ampliado con las secciones 16.3, 16.4, 16.5 y 20_
 
 - El trabajo como bendición, la diligencia, el trabajo como testimonio y la Ley del Aumento (única ubicación).
 - **Nuevo:**
@@ -92,6 +95,7 @@ _Archivo actual: `07_emprendimiento.md`, ampliado con las secciones 16.3, 16.4 y
   - Aprender, perfeccionar y especializar un oficio técnico, ofreciendo prevención y no solo reparación.
   - Emprender en paralelo sin afectar el trabajo principal.
   - Comprar donde es barato y llevar donde hace falta, calculando el costo total del viaje.
+  - **Resolver problemas ajenos:** ruta compartida (costeo del vehículo), transporte escolar, carga y encomiendas, compra y venta en ambas direcciones, cocina por encargo, enseñar, cuidar personas, limpieza y oficios de mantenimiento, y la actitud que vende.
 - **Cambiar el cierre:** hoy termina en una advertencia ("el trabajo no es un ídolo"); debe terminar en esperanza y en un paso concreto.
 
 ### 10. Plan de Acción y Cuaderno de Ejercicios (NUEVO)
@@ -104,7 +108,8 @@ _Ideas base: secciones 16.1, 16.2 y 16.6, más `ejercicios_practicos.md`_
   - **Caso positivo:** entra un dinero extra.
   - **Casos negativos:** se daña el transporte, la electricidad o un electrodoméstico; un imprevisto médico; te piden prestado; dos golpes el mismo mes.
   - El valor de la hora.
-- Nueve plantillas en blanco para el lector.
+- **Los imprevistos (sección 21):** el efecto dominó, la red de apoyo, el directorio de contingencia, los respaldos que se usan y el simulacro trimestral.
+- Doce plantillas en blanco para el lector.
 
 ## PARTE III: El Propósito
 

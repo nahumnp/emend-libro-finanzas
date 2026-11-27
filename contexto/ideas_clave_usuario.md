@@ -307,7 +307,7 @@ Ser testigos de que Jesus es el Cristo, es lo más importante de todo lo que hac
 - **Para quien ya es padre o madre:** no es el fin del plan; es un plan distinto. Se reorganiza desde donde se está, con Dios.
   - _"Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados."_ (Romanos 8:28)
 
-### 11.3 Otros Frutos de la Carne con Costo Financiero (opcional, elegir 1 o 2)
+### 11.3 Otros Frutos de la Carne con Costo Financiero (desarrollados en la sección 18)
 
 - Los juegos de azar y las apuestas: loterías, "animalitos", casinos en línea.
 - El alcohol y otros vicios.
@@ -577,3 +577,435 @@ Ser testigos de que Jesus es el Cristo, es lo más importante de todo lo que hac
   2. **Palabra de esperanza:** por ejemplo, _"Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad."_ (Lamentaciones 3:22-23)
   3. **"Un paso esta semana":** una sola acción concreta, posible con ingresos bajos.
   4. **"Para reflexionar":** máximo 5 preguntas (una de diagnóstico, una del corazón, una de la familia y una de acción).
+
+---
+
+> **Cómo usar las secciones 18 a 21:** cada una trae primero las **palabras del autor**, que deben conservarse en el libro casi literales (solo se corrigió la ortografía). Después vienen la explicación, la aplicación con números y el cierre. El objetivo del autor: "que se abra la mente para entender qué cosas pasan, pero que se puedan poner en práctica, y no solo vender humo inalcanzable".
+
+## 18. Malos Hábitos, Vicios y Falta de Dominio Propio
+
+**Palabras del autor:**
+
+> "Gastar en cigarros, drogas, licores, lotería y temas relacionados son cosas que no están bien para muchos, más cuando pueden hacer dependientes de ellos por temas emocionales."
+
+> "Hoy en día el vicio del entretenimiento es caro. Primero porque lo ponemos como prioritario antes de las cosas que debemos hacer, lo que se llama postergar y los términos nuevos psicológicos. Pero en realidad es un desorden de prioridades. Todo parece inofensivo cuando el tiempo —la vida— se desperdicia y se malgasta. Redes sociales, mensajería instantánea, estados y publicaciones de los contactos, videos largos y cortos, streaming o TV, hasta que podemos llegar a la pornografía. Es un robo de atención y de la mente."
+
+### 18.1 Los Vicios de Siempre: Lo que Cuestan en un Año
+
+| Hábito (cifras ilustrativas) | Al mes | Al año |
+| --- | --- | --- |
+| Cigarrillos (unos $1 diarios) | $30 | $360 |
+| Licor los fines de semana ($10 cada uno) | $40 | $480 |
+| Lotería o "animalitos" ($1 diario) | $30 | $360 |
+| **Total** | **$100** | **$1.200** |
+
+- **$1.200 al año** es más de lo que la familia Martínez necesitó para la lavadora y el segundo tanque (Ejercicio 3 de `ejercicios_practicos.md`). El vicio no solo cuesta lo que se paga; cuesta lo que se deja de construir.
+- **Los costos que no salen en la tabla:**
+  - **Salud:** tos, medicinas, accidentes.
+  - **Trabajo:** llegar tarde el lunes, rendir menos, perder el empleo.
+  - **Familia:** discusiones, violencia y el ejemplo que ven los hijos.
+- **Las drogas** ya no son un tema de presupuesto, sino de rescate: además de la ruina económica, traen ruina física, legal y familiar.
+- **La lotería y los juegos de azar** venden la esperanza de ganar sin trabajar. El que juega todos los días, siempre pierde más de lo que gana.
+  - _"Las riquezas de vanidad disminuirán; Pero el que recoge con mano laboriosa las aumenta."_ (Proverbios 13:11)
+- **La dependencia emocional:** muchos vicios se usan para calmar la ansiedad, la tristeza o la soledad. Es el mismo mecanismo del gasto ansioso de fin de año del Capítulo 5. Por eso la pura fuerza de voluntad rara vez basta.
+- **El camino para salir:**
+  1. **Reconocerlo sin excusas.**
+  2. **Confesarlo a Dios y a una persona de confianza** que acompañe y pida cuentas.
+  3. **Buscar ayuda profesional** cuando hay adicción (alcohol, drogas, apuestas). Buscar ayuda no es falta de fe.
+  4. **Cambiar el ambiente,** no solo el hábito: las amistades, los lugares y las horas donde ocurre.
+  5. **Darle destino al dinero liberado:** un sobre visible que diga "lo que antes se iba en...". En 12 meses pueden ser $1.200 construyendo algo.
+- **Textos (RVR1960):**
+  - _"No estés con los bebedores de vino, Ni con los comilones de carne; Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos."_ (Proverbios 23:20-21)
+  - _"Hombre necesitado será el que ama el deleite, Y el que ama el vino y los ungüentos no se enriquecerá."_ (Proverbios 21:17)
+  - _"Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados."_ (Santiago 5:16)
+
+### 18.2 Gastar por Impulso: La Falta de Dominio Propio
+
+- **Qué es:** comprar porque la emoción decide antes que la razón. La oferta, el antojo, el aburrimiento, la tristeza o la presión del momento.
+- **Sin dominio propio, todo entra:**
+  - _"Como ciudad derribada y sin muro Es el hombre cuyo espíritu no tiene rienda."_ (Proverbios 25:28)
+  - _"Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley."_ (Gálatas 5:22-23). La templanza es fruto del Espíritu, no solo disciplina humana.
+  - _"Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio."_ (2 Timoteo 1:7)
+- **Herramientas concretas (el "muro" de la ciudad):**
+  - **Regla de las 48 horas:** todo lo que no está en el presupuesto y cuesta más de $10 espera dos días. Si después de dos días todavía hace falta, se evalúa con el análisis de compra del Capítulo 6.
+  - **Lista antes de salir.** Se lleva solo el efectivo para lo que está en la lista.
+  - **No "pasear"** por tiendas, por apps de compras ni por grupos de ventas. Silenciar esos grupos.
+  - **Antes de pagar, preguntarse:** "¿Qué estoy sintiendo ahora mismo?"
+  - **Una línea de "gusto personal" en el presupuesto,** pequeña y fija: se gasta sin culpa dentro del límite. Así el dominio propio no se vive como castigo.
+  - **Rendir cuentas en pareja** o con alguien de confianza.
+
+### 18.3 El Vicio del Entretenimiento: Robo de Tiempo, de Atención y de la Mente
+
+- **Postergar es un desorden de prioridades** (la perspectiva del autor). La psicología lo llama procrastinación; el fondo es que el entretenimiento se pone antes que lo que se debe hacer. **No es que no tengas tiempo: es que tu tiempo ya tiene dueño antes de que decidas en qué usarlo.**
+- **El costo en dinero** es moderado: suscripciones de streaming ($5 a $15 cada una), datos extra, TV por cable.
+- **El costo en tiempo es enorme:**
+  - 3 horas diarias entre redes, estados, mensajes y videos = **21 horas por semana = 1.095 horas al año.**
+  - Son **137 jornadas de 8 horas, más de 6 meses de trabajo.**
+  - Con el valor de la hora de José ($1,58, Ejercicio 11), equivalen a **unos $1.730 al año.**
+- **En qué podría convertirse ese tiempo:**
+  - El curso del oficio (sección 16.3).
+  - El negocio paralelo (sección 20).
+  - La familia.
+  - **La lectura personal de la Biblia,** que el Capítulo 9 señala como la falta del creyente que "se conforma con lo que le dicen los domingos".
+- **Cómo funciona el robo:**
+  - Las notificaciones y el contenido sin fin están diseñados para capturar la atención.
+  - La mente queda fragmentada y se duerme menos (Salmos 127:2, sección 15).
+  - Los estados de los contactos alimentan la **trampa de la comparación** (Mito #5): ves lo que otros muestran, no su realidad. La respuesta sigue siendo "depende".
+- **La pornografía, el extremo de este robo:**
+  - Esclaviza la mente y destruye la intimidad del matrimonio.
+  - Suele abrir la puerta a la infidelidad (se conecta con la sección 11.1).
+  - Cuesta tiempo, a veces dinero, y vive del secreto y la vergüenza.
+  - _"Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón."_ (Mateo 5:28)
+  - _"Hice pacto con mis ojos; ¿Cómo, pues, había yo de mirar a una virgen?"_ (Job 31:1)
+  - **La salida:** confesión, rendición de cuentas, filtros de contenido, el teléfono fuera del cuarto en la noche, y la gracia que no condena a quien se levanta (Romanos 8:1).
+- **Herramientas concretas:**
+  1. **Medir primero:** ver el tiempo de pantalla del teléfono durante 7 días sin cambiar nada, como el registro de 30 días del dinero.
+  2. **Quitar todas las notificaciones** excepto las llamadas y la familia.
+  3. **Horarios sin teléfono:** la primera hora de la mañana (para Dios), las comidas en familia y después de las 9 de la noche.
+  4. **Teléfono fuera del cuarto al dormir.**
+  5. **Borrar las 2 apps que más tiempo roban,** o usarlas solo en la computadora.
+  6. **Revisar los mensajes a horas fijas,** no cada vez que suenan.
+  7. **Cancelar las suscripciones** que no se usan cada semana.
+  8. **Reemplazar, no solo quitar:** cada hora liberada se convierte en un bloque de estudio, de negocio o de familia.
+- **Textos (RVR1960):**
+  - _"Todas las cosas me son lícitas, mas no todas convienen; todas las cosas me son lícitas, mas yo no me dejaré dominar de ninguna."_ (1 Corintios 6:12)
+  - _"Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si algo digno de alabanza, en esto pensad."_ (Filipenses 4:8)
+
+**Cierre de la sección:**
+- **Revelación:** lo que te domina te cobra en dinero, en tiempo y en paz. Pero lo que se rinde a Cristo se convierte en espacio para construir.
+- **Paso concreto:** durante 7 días, anotar el gasto en hábitos y el tiempo de pantalla. Multiplicar por 52 y escribir al lado qué se podría construir con eso en un año.
+
+## 19. Ganar Más No Es la Salida: Retener Más
+
+**Palabras del autor:**
+
+> "Buscar ganar más no es realmente la salida; es buscar cómo retener más, ya sea gastando menos o no inflando lo que gastas. Porque si ganas un 10 o 20% más, no haces nada si al creer que puedes permitirte más cosas se infla el estilo de vida y se vuelve cada vez más costoso."
+
+> "El ejemplo es tratar de ganar más y gastar el doble, o peor aún, pedir prestado porque crees que te alcanza. Ojo: esto no está pensado para cuando lo que gastas o pides prestado es para invertirlo en algo productivo que recupera el valor y puedes pagar."
+
+- **La imagen:** es como llenar un tanque que tiene una fuga. Se puede poner una bomba más potente, pero si no se tapa la fuga, la bomba solo gasta más luz. Ganar más es la bomba; retener es tapar la fuga.
+- **El ejemplo del aumento del 20%** (el ingreso pasa de $400 a $480):
+
+  | Sin plan ("ahora sí alcanza") | Extra al mes |
+  | --- | --- |
+  | Plan de teléfono mejor | $10 |
+  | Comer fuera más seguido | $30 |
+  | Ropa | $25 |
+  | Salidas | $20 |
+  | Cuota de un televisor nuevo | $25 |
+  | **Total** | **$110** |
+
+  Con $80 de aumento se gastan $110 más. **Ganas más y estás peor,** y el siguiente paso es pedir prestado.
+
+  | Con plan | Monto |
+  | --- | --- |
+  | Diezmo | $8 |
+  | El ahorro sube del 5% al 10% y el resto va a la meta | $40 |
+  | Abono a la deuda | $20 |
+  | Una mejora real, planificada | $12 |
+  | **Total** | **$80** |
+
+- **La excepción (con las palabras del autor):** gastar o pedir prestado para algo productivo que recupera su valor y que se puede pagar no es inflar el estilo de vida. Es inversión, y debe pasar los criterios de deuda buena de la sección 12.
+
+### 19.1 La Vivienda: Precio contra Ubicación
+
+**Palabras del autor:**
+
+> "Si alquilas un lugar, debes evaluar si es lo ideal para ti en función del espacio y la ubicación. ¿Estarías dispuesto a buscar algo más económico pero más lejos? ¿Te sirve si estás aún cerca de donde debes trabajar y el transporte no es problema? ¿O estás dispuesto a pagar más por algo más pequeño, pero no tienes que preocuparte por movilizarte porque estás cerca? Pagas menos en transporte y te queda todo más cerca."
+
+| | Opción A: barato y lejos | Opción B: más caro y cerca |
+| --- | --- | --- |
+| Alquiler | $70 | $100 |
+| Transporte al mes | $50 | $10 |
+| **Total en dinero** | **$120** | **$110** |
+| Tiempo diario de traslado | 2 horas | 20 minutos |
+| **Horas al mes en traslado** | **unas 44** | **unas 7** |
+
+- **El alquiler más barato no siempre es el más barato.** La opción B cuesta $10 menos al mes y devuelve unas 37 horas mensuales.
+- **Preguntas antes de alquilar:**
+  - ¿Qué tan cerca queda del trabajo, la escuela, el mercado y la congregación?
+  - ¿El transporte es confiable?
+  - ¿La zona es segura?
+  - ¿Cómo llegan el agua y la luz a ese sector? (sección 15)
+
+### 19.2 Alquilar una Habitación de Tu Casa
+
+**Palabras del autor:**
+
+> "Si tu lugar es propio o familiar, pueden permitirse alquilar una habitación y compartir el baño y la cocina, y los espacios que se requieran según el precio. Por ejemplo, el derecho a lavar la ropa con o sin la lavadora, estacionamiento para carro o moto, o incluir otros servicios como internet y otros consumibles. Todo esto puede verse influenciado por las condiciones en que puedas prestar el servicio y por la ubicación, que puede ser favorable según tu mercado."
+
+> "Este punto es súper importante porque es un bien que por lo general no se toma en cuenta, porque se piensa que alquilar es un desprestigio. Pero si el ego no te gana y las condiciones realmente son buenas, ese dinero beneficia a ambos: al que pone en alquiler y al que vive allí. Esto te empieza a formar la mente de empresario, ya que no solo es recibir dinero, sino administrar, mantener, dirigir y hacer cumplir reglas, normas y acuerdos. Y quién sabe si te dediques a buscar más espacios en tu hogar o en otras casas, donde puedas acordar ser gestor y mantenedor (conserje) de lugares de alquiler."
+
+> "Debes tomar en cuenta que todo debe estar regulado y firmado en un acuerdo, de preferencia con un contrato que te redacte un abogado. Para muchas familias y países, alquilar se puede volver desfavorable porque no hay leyes equilibradas que beneficien realmente tanto al que alquila como al que paga el alquiler. Sigue siendo un riesgo para el que alquila: si la persona no paga o no cumple las normas y quieres desalojarla, hay países donde la ley no protege al dueño, sino por norma a los ocupantes. Lo digo porque no debe tomarse a la ligera. Busca asesoría profesional y certificada, no solo referencias de alguien que conoce a alguien."
+
+- **Condiciones que hay que definir por escrito, porque cada una cambia el precio:**
+  - Baño compartido o propio.
+  - Uso de la cocina: horarios y espacio en la nevera.
+  - Lavado: con o sin lavadora y qué días.
+  - Estacionamiento para carro o moto.
+  - Internet.
+  - Servicios y consumibles (gas, agua, luz) incluidos o aparte.
+  - Visitas, horarios y ruido.
+  - Depósito.
+- **Las cuentas (cifras ilustrativas):** habitación a $60 al mes con servicios incluidos; el consumo extra de luz, agua, gas e internet es de unos $12 y el desgaste y mantenimiento de unos $5. **Queda un neto de $43 al mes, $516 al año,** de un espacio que antes no producía nada.
+- **Antes de alquilar:**
+  1. Que **toda la familia que vive en la casa esté de acuerdo.** Hay que pensar en la privacidad y la seguridad, sobre todo si hay niños.
+  2. Un **contrato redactado por un abogado** que conozca la ley de arrendamiento vigente en el país.
+  3. Un **inventario firmado** de lo que tiene la habitación, y **normas de convivencia por escrito.**
+  4. **Verificar las referencias reales** del inquilino: su trabajo y lo que dicen de él quienes le alquilaron antes.
+- **Para el que busca dónde vivir:** alquilar una habitación en lugar de un apartamento completo también es una forma de retener, sobre todo para el joven soltero (Ejercicio 2, variante).
+- _"Antes del quebrantamiento es la soberbia, Y antes de la caída la altivez de espíritu."_ (Proverbios 16:18). El "qué dirán" no puede costarle a la familia $500 al año.
+
+**Cierre de la sección:**
+- **Revelación:** la libertad no llega cuando ganas más, sino cuando lo que ganas deja de escaparse.
+- **Paso concreto:** escribir qué gastos subieron la última vez que subió el ingreso, y decidir hoy a dónde irá el próximo aumento, antes de que llegue.
+
+## 20. Resolver Problemas Ajenos: Ideas de Ingreso que Sí Están al Alcance
+
+**El principio, en palabras del autor:**
+
+> "Otras formas de ingreso o ahorro consisten en ponerse de acuerdo para solucionar un problema que otros tienen y para el que no tienen tiempo, o no tienen la holgura para cumplir con todo."
+
+**Cada idea se evalúa con cuatro preguntas:**
+1. ¿Qué problema resuelvo?
+2. ¿Cuánto me cuesta de verdad, incluido mi tiempo?
+3. ¿Cuánto paga el mercado de mi zona?
+4. ¿Qué riesgo tiene y cómo lo cuido?
+
+### 20.1 Transporte de Personas (Ruta Compartida)
+
+**Palabras del autor:**
+
+> "Así como alquilar es bueno, servir de transporte también lo es. Si eres una persona responsable, que tiene su medio de transporte en buenas condiciones de mecánica y estética aceptables, y una o varias personas deben hacer una ruta que les resulta incómoda en transporte público, puedes dar el servicio. Saca la cuenta de cuánto gastas en todo lo relacionado con el mantenimiento: no solo gasolina y aceite, sino cauchos, mantenimientos, lavado, impuestos y demás elementos, para que no te sorprendan cuando fallen. Estima cuándo puede salirte a cuenta, cuánto cobra el mercado en tu zona y realmente la comodidad o satisfacción de las personas interesadas."
+
+> "Por ejemplo, si una persona gasta $8 semanales en transporte público pero sufre para ir a trabajar, pregúntale si le conviene pagarte $10 o $15 por buscarla en su casa o en un lugar acordado. $10 × 4 semanas son $40 mensuales que pueden usarse para mantener el vehículo, para que ese gasto no salga directamente de tus ingresos. Si no es una sola persona sino varias, esto puede ser mayor. Debes tomar en cuenta la viabilidad de distancia, horarios y simplicidad. Recuerda que entre más grande sea la necesidad y menor la oferta, mejor puede ser tu precio."
+
+**El costo real del vehículo (plantilla con cifras ilustrativas):**
+
+| Concepto | Al mes |
+| --- | --- |
+| Cauchos (4 × $60 cada 2 años) | $10 |
+| Aceite y mantenimiento | $15 |
+| Lavado | $8 |
+| Impuestos, papeles y seguro | $5 |
+| Reparaciones imprevistas (provisión) | $10 |
+| **Costo fijo** | **$48 al mes, más la gasolina** |
+
+- **Con dos personas a $10 por semana:** $80 al mes, menos $15 de gasolina extra por el desvío = **$65.** Cubre los $48 del mantenimiento y sobran $17. **El carro se mantiene sin sacar dinero del sueldo.**
+- **Cuidados:**
+  - La puntualidad es el producto.
+  - Seguro y documentos al día.
+  - Averiguar si la zona exige un permiso para transportar pasajeros.
+
+### 20.2 Transporte Escolar
+
+**Palabras del autor:**
+
+> "Otro parecido es ser transporte escolar. Es una necesidad latente y siempre debe estar en manos de personas de confianza: manejar la responsabilidad de tratar con niños, con seguridad vial y seguridad física, y retirarlos solo tú y entregarlos en el lugar indicado a la persona indicada. Esto puede tener más valor por la responsabilidad. Ambos servicios dependen de la capacidad de resolver y de ser cumplido en los tiempos precisos."
+
+- **Reglas concretas:**
+  - Una lista escrita de las personas autorizadas para recibir a cada niño.
+  - Los teléfonos de los padres a mano.
+  - Cinturón para cada niño.
+  - Nunca dejar a un niño solo en el vehículo.
+  - Ruta y horario fijos.
+- **El precio es mayor que el de la ruta de adultos** porque la responsabilidad es mayor.
+
+### 20.3 Carga, Encomiendas y Viajes Largos
+
+**Palabras del autor:**
+
+> "Otra puede ser hacer viajes largos. Si tienes un vehículo que pueda llevar carga, puedes servir de transporte, de encomienda o de carga para personas o negocios que mueven mercancía. Por ejemplo, la tienda de la esquina compra mercancía en un lugar alejado, pero no se la despachan directamente porque esa zona no la cubren. Allí puedes ofrecerte para retirarla y traérsela por un precio que beneficie a ambos."
+
+> "Estudia si requiere esfuerzo físico, tanto en la carga como en la descarga, porque por lo general esto no debería estar asumido en la negociación; muchos quedan lesionados. Si lo vas a incluir, ten las herramientas para no lesionarte, y que la persona que lo haga tenga buena condición física. Esto debe ser bien pagado: la salud no es juego en este punto."
+
+- **Herramientas mínimas:** carretilla, faja lumbar, amarres y ayuda para lo pesado.
+- **La carga y descarga se cobran aparte del viaje.**
+- **Ventaja adicional:** este servicio te muestra el mercado (sección 20.4).
+
+### 20.4 Compra y Venta en Ambas Direcciones
+
+(Amplía la sección 16.5.)
+
+**Palabras del autor:**
+
+> "Esto también te hace ver el mercado, y puedes incluirte en alguna actividad de compra y venta, donde veas qué otro producto es bueno traer a tu comunidad o sector para venderlo directamente o a los comercios. Así mismo puede ser lo contrario: que en tu sector exista un producto bien pagado en otra región, y puedas comprarlo a menor precio y venderlo en uno o dos lugares donde te paguen bien por él. Así gana aquel a quien le compras la mercancía de contado, y tú la vendes un poco más alta, con tu comisión, transporte y gestión."
+
+> "Recuerda hacer negociaciones cerradas en este punto. Si estás empezando no puedes permitirte financiar, porque el riesgo lo asumes tú. Los riesgos se toman cuando hay holgura financiera."
+
+- **En la práctica:**
+  - Comprar de contado y vender de contado.
+  - No vender fiado ni a crédito al principio.
+  - Precio y cantidad acordados antes del viaje.
+  - Calcular el costo total (sección 16.5).
+
+### 20.5 Cocina por Encargo
+
+**Palabras del autor:**
+
+> "Otra idea es cocinar almuerzos para personas que no tienen tiempo de hacerlo. Puede ser un menú para la semana, envasado individualmente por porciones, o cocinar todo y entregarlo por cantidades, como 1 kilo de carne guisada, 1 kilo de carne molida, arroz, granos y demás."
+
+> "Puedes empezar acordando un precio de preparación por una cantidad de kilos o porciones: recibes los ingredientes principales y tú pones algunas especias y complementos para darle tu sazón y tus sabores. Cobras una cantidad fija por la preparación y recibes los ingredientes un día acordado. Luego, según la responsabilidad, puedes pasar a recibir el dinero de los ingredientes y encargarte de comprar y entregar. No subestimes el tiempo invertido en cada cosa: entregar también lleva tiempo y coordinación, y eso debe costearse."
+
+- **Modelo 1 (el cliente pone los ingredientes),** con cifras ilustrativas:
+  - Preparación de 10 porciones: cobras **$12** y pones **$2** en especias y complementos. Neto: **$10.**
+  - Tiempo: 3 horas de cocina + 1 hora de envasado, coordinación y entrega = 4 horas.
+  - **$2,50 por hora,** más que la hora de José ($1,58).
+- **Modelo 2 (tú compras todo):** se cobra también el tiempo de hacer las compras, y se pide el dinero de los ingredientes **por adelantado.**
+- **Cuidados:**
+  - Higiene.
+  - Envases adecuados.
+  - Cadena de frío: un congelador es una inversión que produce (sección 14).
+  - Luisa, de los ejercicios, ya vende almuerzos: este es su siguiente paso natural.
+
+### 20.6 Enseñar lo que Sabes
+
+**Palabras del autor:**
+
+> "Si tienes habilidades como enseñar, puedes dar tareas dirigidas, repostería, algún idioma o instrumento musical, oratoria, deportes, disciplinas o temas que las personas estén dispuestas a aprender."
+
+- **Ejemplo de tareas dirigidas:** 5 niños × $15 al mes = **$75**, por 1,5 horas diarias durante 20 días (30 horas). Son **$2,50 por hora,** sin salir de casa.
+
+### 20.7 Cuidado de Niños o Adultos Mayores, y Limpieza
+
+**Palabras del autor:**
+
+> "También cuidar niños o adultos mayores. La limpieza de casas también sigue siendo rentable si las condiciones son favorables."
+
+- **Se vende confianza:**
+  - Referencias.
+  - Puntualidad.
+  - Primeros auxilios básicos.
+  - Acuerdos escritos sobre horarios, comidas y medicinas.
+
+### 20.8 Oficios de Mantenimiento y Trabajo Pesado
+
+**Palabras del autor:**
+
+> "Otras cosas, como la limpieza profunda de casas para ordenar y mover cosas pesadas, pintar, reparar electricidad o hacer albañilería, entre otros. Quizás necesites herramientas, pero las puedes alquilar, o comprar nuevas o usadas en buen estado, que te permitan empezar. Luego, en función de cómo vayas promocionando el servicio o producto, sigues invirtiendo. Pero no hay que irse acelerado."
+
+- **La electricidad se trabaja solo si de verdad se sabe:** el riesgo es para la vida, no solo para el bolsillo.
+- **Para lo pesado aplica la misma advertencia de la sección 20.3.**
+
+### 20.9 La Actitud que Vende
+
+**Palabras del autor:**
+
+> "Siempre debes tomar en cuenta que debes tener una buena actitud, aprender y practicar hablar en público, promocionarte a ti mismo y tu producto o servicio. Debes creer en ti para persuadir de forma real y correcta, y concretar ventas."
+
+- **En la práctica:**
+  - **Una presentación de 30 segundos:** quién soy, qué problema resuelvo, cuánto cuesta y cómo me contactan.
+  - **Fotos reales del trabajo hecho** y testimonios de los clientes.
+  - **Los estados de mensajería como vitrina:** usar la herramienta, en vez de ser usado por ella (contraste con la sección 18.3).
+  - **Persuadir sin exagerar** y sin prometer lo que no se puede cumplir. Cumplir genera recomendaciones; la recomendación es la mejor publicidad.
+
+### 20.10 La Fe que Trabaja
+
+**Palabras del autor:**
+
+> "La Biblia habla de que el que busca encuentra, y de que seamos diligentes. Entonces unamos esto: Dios nos ha dado habilidades y pondrá oportunidades en nuestro camino. Así que hagamos lo que es de nuestra parte, y Dios proveerá lo que nos haga falta."
+
+- _"Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá. Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá."_ (Mateo 7:7-8)
+- _"La mano de los diligentes señoreará; Mas la negligencia será tributaria."_ (Proverbios 12:24)
+- _"Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús."_ (Filipenses 4:19)
+
+**Resumen para el libro:**
+
+| Idea | Inversión inicial | Cuidado principal |
+| --- | --- | --- |
+| Alquilar una habitación | Baja, si el espacio ya existe | Contrato con abogado y conocer la ley |
+| Ruta compartida | Vehículo en buen estado | Costeo completo y puntualidad |
+| Transporte escolar | Vehículo en buen estado | Seguridad de los niños y confianza |
+| Carga y encomiendas | Vehículo de carga | La salud física y cobrar la carga aparte |
+| Compra y venta | Capital para comprar de contado | No financiar al empezar |
+| Cocina por encargo | Envases y congelador | Costear el tiempo y la higiene |
+| Enseñar | Casi ninguna | Constancia y resultados |
+| Cuidado de personas y limpieza | Casi ninguna | Confianza y acuerdos escritos |
+| Oficios de mantenimiento | Herramientas (alquiladas o usadas) | No acelerarse y seguridad |
+
+**Cierre de la sección:**
+- **Revelación:** a tu alrededor hay problemas que nadie resuelve. Ahí está tu oportunidad, y Dios ya te dio algo con qué empezar.
+- **Paso concreto:** elegir una idea, hacer las cuentas completas con la plantilla de costeo (incluido el tiempo) y ofrecerla a 3 personas esta semana.
+
+## 21. Los Imprevistos: Tener un Plan Antes de que Pase
+
+**Palabras del autor:**
+
+> "Que se pinche un caucho, o que se rompa o descomponga algo imprescindible para el uso y los quehaceres diarios o mensuales, puede hacer que todo se desbalancee. Por ejemplo, se daña un caucho, el carro se queda parado, y ya ir a trabajar, o llevar y buscar a la esposa o al niño del trabajo o la escuela, se vuelve difícil. O que se dañe la nevera, que se dañe la cocina, o tan simple como que se acabe el gas. Todo esto no tiene fecha, pero sí se debe tener previsto qué hacer."
+
+> "Aquí es donde viene la frase: una amistad o un familiar que te tiende la mano es inigualable. No todo se resuelve con dinero; un buen contacto, una buena ayuda, vale más que miles de dólares en el banco. Las urgencias pasan, y se debe tener un plan, al menos para saber a quién llamar para cada cosa. No para ser una carga ni para transferir el problema: es para resolver."
+
+> "En la informática y en muchos otros ámbitos se pueden tomar previsiones que se quedan ahí, llenándose de polvo, confiando en que funcionan. Pero cuando las vas a usar de verdad, no hacen lo que deben o ya se vencieron. Un computador del que siempre dependes un día no enciende: ¿qué haces? ¿Dónde está la información? ¿Puedes continuar en otra parte? Puedes perder algo, pero debes poder continuar. Los respaldos se deben usar. El número de teléfono que guardaste del cauchero, debes saber si está activo; que el mecánico te responda; que el servicio con el que cuentas funcione. Porque las cosas cambian, y en ocasiones los negocios se acaban y cierran."
+
+### 21.1 El Efecto Dominó
+
+Un solo caucho pinchado:
+1. El carro se queda parado.
+2. Se llega tarde al trabajo o se pierde el día.
+3. Nadie lleva al niño a la escuela ni busca a la esposa.
+4. Se gasta en taxis.
+5. Llegan el estrés y las discusiones.
+
+**El problema no es el caucho: es no tener un plan para el caucho.** Los Ejercicios 6 a 10 de `ejercicios_practicos.md` muestran el lado del dinero (el fondo). Esta sección muestra el otro lado: **las personas, los repuestos y los respaldos.**
+
+### 21.2 La Red de Apoyo Vale Más que el Banco
+
+- **Una red se construye antes de necesitarla.** Y es de ida y vuelta: sé tú también la mano tendida para otros.
+- **Pedir ayuda para resolver** no es lo mismo que pasarle tu problema a otro.
+- **Textos (RVR1960):**
+  - _"Mejores son dos que uno; porque tienen mejor paga de su trabajo. Porque si cayeren, el uno levantará a su compañero; pero ¡ay del solo! que cuando cayere, no habrá segundo que lo levante."_ (Eclesiastés 4:9-10)
+  - _"No dejes a tu amigo, ni al amigo de tu padre; Ni vayas a la casa de tu hermano en el día de tu aflicción. Mejor es el vecino cerca que el hermano lejos."_ (Proverbios 27:10)
+  - _"En todo tiempo ama el amigo, Y es como un hermano en tiempo de angustia."_ (Proverbios 17:17)
+
+### 21.3 El Directorio de Contingencia ("¿A Quién Llamo para Cada Cosa?")
+
+| Si pasa esto... | Contacto principal | Contacto alterno | Última verificación |
+| --- | --- | --- | --- |
+| Caucho pinchado | Cauchero | Vecino con compresor | |
+| El carro o la moto no arranca | Mecánico | Grúa o amigo con carro | |
+| Se va la luz o hay una falla eléctrica | Electricista | | |
+| Se daña la nevera o la cocina | Técnico de refrigeración | | |
+| Se acaba el gas | Dónde se recarga la bombona | Quién vende o presta una | |
+| No llega el agua | Camión cisterna | Vecino con tanque | |
+| Emergencia médica | Centro de salud más cercano | Farmacia de guardia | |
+| Nadie puede buscar a los niños | Familiar | Vecino o hermano de confianza | |
+| No hay transporte | Ruta alterna de autobús | Taxi de confianza | |
+| La computadora no enciende | Técnico | Otra computadora o teléfono donde continuar | |
+
+### 21.4 Las Previsiones que Llevan Polvo: "Los Respaldos se Deben Usar"
+
+**Previsiones que existen, pero fallan justo cuando se necesitan:**
+- El caucho de repuesto desinflado, o el gato que no sirve.
+- La bombona de repuesto que en realidad está vacía.
+- La linterna sin baterías.
+- El botiquín con medicinas vencidas.
+- El número del cauchero que ya no existe.
+- **El respaldo de la computadora que nunca se probó.**
+
+**Para la información:**
+1. Los archivos importantes en **dos lugares distintos:** la nube, y una memoria USB o un disco.
+2. **Probar una vez al mes que se puede recuperar un archivo.**
+3. **Saber de antemano en qué otro equipo se puede continuar:** otro teléfono, un familiar, un cibercafé.
+4. **Documentos personales** (cédula, títulos, partidas de nacimiento): fotografiados y con copia física.
+
+### 21.5 El Simulacro Trimestral (30 Minutos Cada 3 Meses)
+
+- [ ] Revisar el caucho de repuesto, el gato y la llave.
+- [ ] Escribir o llamar a los contactos clave del directorio: ¿siguen activos y trabajando?
+- [ ] Recuperar un archivo del respaldo.
+- [ ] Revisar las fechas de vencimiento del botiquín y del extintor.
+- [ ] Verificar que la bombona de repuesto está llena.
+- [ ] Revisar el fondo "Que tu 0 no sea 0" y la provisión de imprevistos.
+
+### 21.6 Prevención según el Costo
+
+- **Dos bombonas de gas:** cuando se acaba una, la otra se recarga de inmediato.
+- **Una hornilla eléctrica de respaldo,** para cuando falta el gas.
+- **Protector de voltaje** (Ejercicio 7).
+- **Caucho de repuesto en buen estado** y mantenimiento preventivo del vehículo (Ejercicio 6).
+- **Linterna recargable y baterías.**
+
+**Cierre de la sección:**
+- **Revelación:** la urgencia no avisa, pero tu respuesta sí se puede preparar. El fondo cuida el dinero; la red y los respaldos cuidan todo lo demás.
+  - _"El avisado ve el mal y se esconde; mas los simples pasan y reciben el daño."_ (Proverbios 22:3)
+- **Paso concreto:** llenar el directorio de contingencia esta semana y verificar hoy mismo 3 contactos.
